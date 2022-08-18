@@ -17,4 +17,6 @@ I'm a 4teen year old software engineer from Germany and my goal is to show young
 ## 🖊 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)
+- [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->

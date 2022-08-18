@@ -12,5 +12,5 @@ I'm a 4teen year old software engineer from Germany and my goal is to show young
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,go,hugo,nodejs,vue,react,mongodb,mysql,py,docker,kubernetes,md,git,bash,cloudflare,nginx,vscode,webstorm,goland,intellij&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,jenkins,go,discord,nodejs,vue,react,mongodb,mysql,py,docker,kubernetes,md,git,bash,cloudflare,nginx,vscode,idea&theme=light)
 

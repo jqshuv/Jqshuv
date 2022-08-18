@@ -1,4 +1,4 @@
-# Hey, I'm Joshua Schmitt ☕️
+# Hey, I'm Joshua ☕️
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jqshuv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://ko-fi.com/jqshuv)
 

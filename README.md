@@ -1,6 +1,6 @@
 # Hey, I'm Joshua ☕️
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jqshuv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://ko-fi.com/jqshuv)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jqshuv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://img.shields.io/badge/Ko--Fi-%23000000.svg?&style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/jqshuv)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&color=FFFFFF&width=500&height=40&lines=I+%3C3+education.;I+%3C3+open+source.;I+%3C3+music.+;I+%3C3+Go+and+JavaScript.)](https://git.io/typing-svg)
 

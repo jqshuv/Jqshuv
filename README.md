@@ -6,6 +6,14 @@
 
 I'm a 4teen year old software engineer from Germany and my goal is to show young people how great programming is.
 
+## 💡 Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=jqshuv&show_icons=true&hide=stars&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)
+
+## 💾 Most Used Languages
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jqshuv&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)
+
 ## 🎧 Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3of7l89wyuvm3z6id46ompcad&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3of7l89wyuvm3z6id46ompcad&redirect=true)

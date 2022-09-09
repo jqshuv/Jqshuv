@@ -28,6 +28,9 @@ I'm a 4teen year old software engineer from Germany and my goal is to show young
 ## 🖊 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)
-- [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)
+- [How to run your own Blog.](https://blog.jqshuv.xyz/how-to-run-your-own-blog/)
+- [Setup Raspberry Pi](https://blog.jqshuv.xyz/setup-raspberrypi/)
+- [Use a Raspberry Pi as your Development Environment.](https://blog.jqshuv.xyz/raspberry-pi-as-development-environment/)
+- [Lorem Ipsum](https://blog.jqshuv.xyz/lorem-ipsum/)
+- [Coming soon](https://blog.jqshuv.xyz/coming-soon/)
 <!-- BLOG-POST-LIST:END -->

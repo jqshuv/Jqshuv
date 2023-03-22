@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&color=FFFFFF&width=500&height=40&lines=I+%3C3+education.;I+%3C3+open+source.;I+%3C3+music.+;I+%3C3+Go+and+JavaScript.)](https://git.io/typing-svg)
 
 
-I'm a 4teen year old software engineer from Germany and my goal is to show young people how great programming is.
+I'm a 5teen year old software engineer from Germany and my goal is to show young people how great programming is.
 
 ## 💡 Stats
 

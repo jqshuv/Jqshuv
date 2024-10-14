@@ -1,6 +1,6 @@
 # Hey, I'm Joshua ☕️
 
-[![Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/twitter-singular_vector.svg)](https://twitter.com/jqshuv) [![YouTube](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/youtube-singular_vector.svg)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/jqshuv)
+[![Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/twitter-singular_46h.png)](https://twitter.com/jqshuv) [![YouTube](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/youtube-singular_46h.png)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact/donate/kofi-singular_46h.png)](https://ko-fi.com/jqshuv)
 
 <sup>**🛑 Much better in darkmode!**</sup>
 

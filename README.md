@@ -17,7 +17,7 @@
 
 ## 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3of7l89wyuvm3z6id46ompcad&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=3of7l89wyuvm3z6id46ompcad&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3of7l89wyuvm3z6id46ompcad&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3of7l89wyuvm3z6id46ompcad&redirect=true)
 
 ## 🔧 Technologies
 

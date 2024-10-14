@@ -1,32 +1,21 @@
 # Hey, I'm Joshua ☕️
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jqshuv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://img.shields.io/badge/Ko--Fi-%23000000.svg?&style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/jqshuv)
+[![Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/twitter-singular_vector.svg)](https://twitter.com/jqshuv) [![YouTube](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact-minimal/social/youtube-singular_vector.svg)](https://youtube.com/channel/UC8dKSn0HpwceuAUCqIQxnzg) [![KoFi](https://raw.githubusercontent.com/intergrav/devins-badges/refs/heads/v3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/jqshuv)
 
 <sup>**🛑 Much better in darkmode!**</sup>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&color=FFFFFF&width=500&height=40&lines=I+%3C3+education.;I+%3C3+open+source.;I+%3C3+music.+;I+%3C3+Go+and+JavaScript.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Joshua)](https://github.com/jqshuv/jqshuv) -->
 
 
 ## 💡 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=jqshuv&show_icons=true&hide=stars&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)
+[![stats](https://readmestats.jqshuv.com/?username=jqshuv&show_icons=true&hide=stars&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)](https://github.com/jqshuv/jqshuv)
 
 ## 💾 Most Used Languages
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jqshuv&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)
-
-## 🎧 Spotify Playing
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3of7l89wyuvm3z6id46ompcad&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3of7l89wyuvm3z6id46ompcad&redirect=true)
+[![top-langs](https://readmestats.jqshuv.com/top-langs?username=jqshuv&hide_border=true&bg_color=FF000000&text_color=ffffff&hide_title=true&count_private=true)](https://github.com/jqshuv/jqshuv)
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,jenkins,go,discord,nodejs,vue,react,mongodb,mysql,py,docker,kubernetes,md,bash,cloudflare,nginx,vscode,idea&theme=light)
+[![skills](https://skillicons.dev/icons?i=js,ts,supabase,docker,html,css,git,github,githubactions,go,discord,nodejs,vue,react,mongodb,mysql,py,kubernetes,md,bash,cloudflare,nginx,vscode,idea,apple,workers&theme=light)](https://github.com/jqshuv/jqshuv)
 
-## 🖊 Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi: Remote Desktop](https://jqshuv.blog/raspberry-pi-remote-desktop/)
-- [How to get a free domain with Freenom and Cloudflare](https://jqshuv.blog/how-to-register-a-free-domain-with/)
-- [Install Coder OSS on Ubuntu](https://jqshuv.blog/install-coder-oss-on-ubuntu/)
-<!-- BLOG-POST-LIST:END -->
